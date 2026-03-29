@@ -4,7 +4,7 @@ import sys
 import requests
 import subprocess
 
-API_KEY = "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"
+API_KEY = "OPENAI_API_KEY_REDACTED"
 WORK_DIR = "/home/whoami/.openclaw/workspace/aris-chronicles/episodes"
 SCRIPT_FILE = os.path.join(WORK_DIR, "ep03-script.md")
 OUTPUT_FILE = os.path.join(WORK_DIR, "ep03-audio.mp3")

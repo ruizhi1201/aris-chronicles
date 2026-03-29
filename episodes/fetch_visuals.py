@@ -4,7 +4,7 @@ import json
 import os
 import sys
 
-PEXELS_KEY = "2DmeiQ4Xpu1lyE879zjQiZ6ex7H9z40EZ9DabLcpfeYbylE1HSjpZSBw"
+PEXELS_KEY = "PEXELS_KEY_REDACTED"
 OUT_DIR = "/home/whoami/.openclaw/workspace/aris-chronicles/episodes/visuals/ep02"
 
 queries = [

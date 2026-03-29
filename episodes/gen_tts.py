@@ -2,7 +2,7 @@
 import os
 import glob
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "OPENAI_API_KEY_REDACTED"
 
 chunks_dir = '/home/whoami/.openclaw/workspace/aris-chronicles/episodes/chunks'
 chunks = sorted(glob.glob(f'{chunks_dir}/chunk_*.txt'))

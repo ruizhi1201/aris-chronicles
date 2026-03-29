@@ -5,7 +5,7 @@ import textwrap
 import requests
 import subprocess
 
-API_KEY = "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"
+API_KEY = "OPENAI_API_KEY_REDACTED"
 SCRIPT_PATH = "/home/whoami/.openclaw/workspace/aris-chronicles/episodes/ep05-script.md"
 OUTPUT_PATH = "/home/whoami/.openclaw/workspace/aris-chronicles/episodes/ep05-audio.mp3"
 CHUNK_DIR = "/home/whoami/.openclaw/workspace/aris-chronicles/episodes/chunks"

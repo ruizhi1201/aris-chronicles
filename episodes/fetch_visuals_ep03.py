@@ -3,7 +3,7 @@ import os
 import sys
 import requests
 
-PEXELS_KEY = "2DmeiQ4Xpu1lyE879zjQiZ6ex7H9z40EZ9DabLcpfeYbylE1HSjpZSBw"
+PEXELS_KEY = "PEXELS_KEY_REDACTED"
 VISUALS_DIR = "/home/whoami/.openclaw/workspace/aris-chronicles/episodes/visuals/ep03"
 os.makedirs(VISUALS_DIR, exist_ok=True)
 

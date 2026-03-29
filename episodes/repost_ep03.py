@@ -9,7 +9,7 @@ Re-schedule ep03 with correct params:
 import json
 import requests
 
-PB_KEY = "pb_live_QWGrPJhVWSHvegGSQVw3P4"
+PB_KEY = "POST_BRIDGE_API_KEY_REDACTED"
 STATUS_FILE = "/home/whoami/.openclaw/workspace/aris-chronicles/episodes/ep03-status.json"
 
 headers = {

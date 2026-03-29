@@ -10,7 +10,7 @@ Improvements:
 import os, sys, json, textwrap, subprocess, math, shutil, urllib.request, re
 
 EPISODES_DIR = "/home/whoami/.openclaw/workspace/aris-chronicles/episodes"
-PEXELS_KEY   = "2DmeiQ4Xpu1lyE879zjQiZ6ex7H9z40EZ9DabLcpfeYbylE1HSjpZSBw"
+PEXELS_KEY   = "PEXELS_KEY_REDACTED"
 FONT_BOLD    = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 FONT_REGULAR = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 

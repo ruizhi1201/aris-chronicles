@@ -6,7 +6,7 @@ import sys
 
 script_path = "/home/whoami/.openclaw/workspace/aris-chronicles/episodes/ep02-script.md"
 output_dir = "/home/whoami/.openclaw/workspace/aris-chronicles/episodes/audio-chunks"
-api_key = "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"
+api_key = "OPENAI_API_KEY_REDACTED"
 
 with open(script_path, "r") as f:
     text = f.read().strip()

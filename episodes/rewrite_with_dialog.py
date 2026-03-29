@@ -16,7 +16,7 @@ Voice assignments:
 import os, sys, json, subprocess, urllib.request, time
 
 EPISODES_DIR = "/home/whoami/.openclaw/workspace/aris-chronicles/episodes"
-OPENAI_KEY   = "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"
+OPENAI_KEY   = "OPENAI_API_KEY_REDACTED"
 
 VOICES = {
     "narrator": "onyx",
