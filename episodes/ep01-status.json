@@ -1,0 +1,22 @@
+{
+  "episode": 1,
+  "title": "The Idea at Gate B7",
+  "series": "The Aris Chronicles",
+  "status": "scheduled",
+  "scheduled_at": "2026-03-27T12:00:00Z",
+  "scheduled_at_local": "2026-03-27 08:00 AM ET",
+  "post_bridge_post_id": "2fd7622e-1b74-498e-b78f-f05d3982db29",
+  "post_bridge_media_id": "a92744bd-1963-418a-b0b2-bbc7d2bde219",
+  "youtube_account_id": 52328,
+  "youtube_title": "The Aris Chronicles | Ep. 1: The Idea at Gate B7",
+  "files": {
+    "script": "ep01-script.md",
+    "audio": "ep01-audio.mp3",
+    "video": "ep01-final.mp4",
+    "visuals": ["visuals/airport.mp4", "visuals/laptop.mp4", "visuals/airplane.mp4"]
+  },
+  "audio_duration_seconds": 308.4,
+  "video_duration_seconds": 321.1,
+  "video_size_bytes": 27164872,
+  "created_at": "2026-03-26T21:11:00Z"
+}

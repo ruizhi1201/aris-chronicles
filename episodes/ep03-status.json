@@ -1,0 +1,47 @@
+{
+  "episode": 3,
+  "title": "211 Funerals",
+  "script": "EP003-211-funerals.md",
+  "audio": "ep03-audio.mp3",
+  "video": "ep03-final.mp4",
+  "media_id": "263cc4ea-3a3d-4abc-86b6-e50dd6194f22",
+  "post_id": "196e1555-9ff9-4152-b289-c0770da503d0",
+  "scheduled_at": "2026-03-29T11:00:00Z",
+  "scheduled_et": "2026-03-29 07:00:00 ET",
+  "status": "scheduled",
+  "social_accounts": [
+    52328,
+    51230
+  ],
+  "platforms": [
+    "youtube (The Aris Chronicles)",
+    "tiktok (dayryz.social)"
+  ],
+  "youtube_title": "Aris Chronicles Ep. 3 \u2014 211 Funerals",
+  "caption": "Kai Chen has 211 product ideas sitting in a folder he calls the graveyard. Today, for the first time in months, he opens it.\n\n#TheArisChronicles #SerialFiction #AIStory #Entrepreneurship",
+  "post_bridge_response": {
+    "id": "196e1555-9ff9-4152-b289-c0770da503d0",
+    "caption": "Kai Chen has 211 product ideas sitting in a folder he calls the graveyard. Today, for the first time in months, he opens it.\n\n#TheArisChronicles #SerialFiction #AIStory #Entrepreneurship",
+    "status": "scheduled",
+    "scheduled_at": "2026-03-29T11:00:00+00:00",
+    "platform_configurations": {
+      "tiktok": {
+        "is_aigc": true
+      },
+      "youtube": {
+        "title": "Aris Chronicles Ep. 3 \u2014 211 Funerals"
+      }
+    },
+    "account_configurations": null,
+    "social_accounts": [
+      52328,
+      51230
+    ],
+    "media": [
+      "263cc4ea-3a3d-4abc-86b6-e50dd6194f22"
+    ],
+    "created_at": "2026-03-27T02:32:04.322411+00:00",
+    "updated_at": "2026-03-27T02:32:04.322411+00:00",
+    "is_draft": false
+  }
+}

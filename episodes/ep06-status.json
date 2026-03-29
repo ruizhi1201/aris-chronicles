@@ -1,0 +1,47 @@
+{
+  "episode": 6,
+  "title": "Devon Sends a Link",
+  "status": "scheduled",
+  "scheduled_at": "2026-04-06T11:00:00Z",
+  "scheduled_et": "2026-04-06 07:00:00 ET",
+  "post_bridge_post_id": "7b13cf97-d493-4d4e-94c1-406ce2a22ead",
+  "media_id": "b12bf2ea-5f42-4c6c-91b0-86572704f0e5",
+  "audio_duration_s": 495.4,
+  "video_size_mb": 10.8,
+  "voice": "onyx",
+  "social_accounts": [
+    52328,
+    51230
+  ],
+  "platforms": [
+    "youtube (The Aris Chronicles)",
+    "tiktok (dayryz.social)"
+  ],
+  "youtube_title": "Aris Chronicles Ep. 6 \u2014 Devon Sends a Link",
+  "caption": "Devon doesn't send hype. He sends things that matter.\n\nEp. 6 \u2014 The Aris Chronicles: Kai watches the demo twice. Then closes the tab. Then can't quite forget it.\n\n#TheArisChronicles #SerialFiction #AIStory #Entrepreneurship #Founders",
+  "post_bridge_response": {
+    "id": "7b13cf97-d493-4d4e-94c1-406ce2a22ead",
+    "caption": "Devon doesn't send hype. He sends things that matter.\n\nEp. 6 \u2014 The Aris Chronicles: Kai watches the demo twice. Then closes the tab. Then can't quite forget it.\n\n#TheArisChronicles #SerialFiction #AIStory #Entrepreneurship #Founders",
+    "status": "scheduled",
+    "scheduled_at": "2026-04-06T11:00:00+00:00",
+    "platform_configurations": {
+      "tiktok": {
+        "is_aigc": true
+      },
+      "youtube": {
+        "title": "Aris Chronicles Ep. 6 \u2014 Devon Sends a Link"
+      }
+    },
+    "account_configurations": null,
+    "social_accounts": [
+      52328,
+      51230
+    ],
+    "media": [
+      "b12bf2ea-5f42-4c6c-91b0-86572704f0e5"
+    ],
+    "created_at": "2026-03-29T06:11:16.571569+00:00",
+    "updated_at": "2026-03-29T06:11:16.571569+00:00",
+    "is_draft": false
+  }
+}

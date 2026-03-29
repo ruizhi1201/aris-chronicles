@@ -1,0 +1,21 @@
+# Large video temp files
+episodes/video-temp/
+episodes/visuals/ep04/all_video.mp4
+episodes/visuals/ep04/seg_*.mp4
+episodes/visuals/ep05/empty_office_dark.mp4
+episodes/ep0*-segs/
+episodes/ep0*-chunks/
+episodes/chunks/
+episodes/audio-chunks/
+episodes/ep0*-vf.txt
+episodes/ep0*-bg-scaled.mp4
+episodes/ep0*-bg.jpg
+episodes/ep0*-audio.mp3
+episodes/ep0*-final.mp4
+episodes/ep0*-thumb.jpg
+episodes/ep03-temp/
+episodes/ep03-chunks/
+episodes/chunk*.mp3
+episodes/chunk*.txt
+episodes/audio_concat.txt
+episodes/bg_concat.txt

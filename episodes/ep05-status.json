@@ -1,0 +1,17 @@
+{
+  "episode": 5,
+  "title": "The James Wound",
+  "status": "scheduled",
+  "scheduled_at": "2026-04-03T12:00:00Z",
+  "post_bridge_post_id": "2f4abcf8-1f02-4277-9054-fa0fd387f453",
+  "media_id": "843d7d0d-550a-442a-a89e-05f20a50c01c",
+  "dialog_version": true,
+  "segments": 32,
+  "audio_duration_s": 299.2,
+  "video_size_mb": 7.3,
+  "voices": {
+    "narrator": "onyx",
+    "kai": "echo",
+    "james": "shimmer"
+  }
+}
