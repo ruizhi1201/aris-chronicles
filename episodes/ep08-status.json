@@ -1,0 +1,15 @@
+{
+  "episode": 8,
+  "title": "Naming the Thing",
+  "status": "scheduled",
+  "audio_duration_seconds": 452.9,
+  "video_size_mb": 7.9,
+  "post_bridge_post_id": "4c169680-db1f-4bb0-8293-00369a0b482a",
+  "post_bridge_media_id": "296b9806-0e13-4b42-a91b-bd40870c916e",
+  "scheduled_at": "2026-04-08T11:00:00Z",
+  "scheduled_et": "2026-04-08 07:00 AM ET",
+  "accounts": [52328, 51230],
+  "youtube_title": "Aris Chronicles Ep. 8 — Naming the Thing",
+  "produced_at": "2026-03-31T06:00:00Z",
+  "produced_by": "Sonny (autonomous nightly run)"
+}

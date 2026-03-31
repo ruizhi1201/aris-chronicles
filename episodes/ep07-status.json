@@ -1,0 +1,47 @@
+{
+  "episode": 7,
+  "title": "What Devon Built",
+  "status": "scheduled",
+  "scheduled_at": "2026-04-07T11:00:00+00:00",
+  "scheduled_et": "2026-04-07 07:00:00 ET",
+  "post_bridge_post_id": "d1034a4d-bfec-4819-b84d-04696cfe144a",
+  "media_id": "f59820ae-4053-461a-acff-5b24b8dbcbcb",
+  "audio_duration_s": 448.2,
+  "video_size_mb": 9.9,
+  "voice": "onyx",
+  "social_accounts": [
+    52328,
+    51230
+  ],
+  "platforms": [
+    "youtube (The Aris Chronicles)",
+    "tiktok (dayryz.social)"
+  ],
+  "youtube_title": "Aris Chronicles Ep. 7 \u2014 What Devon Built",
+  "caption": "Devon built it quietly. Over a weekend. And it was already running.\n\nEp. 7 \u2014 The Aris Chronicles: Kai sees the demo. But seeing a demo and seeing what Devon actually shipped are two different things.\n\n#TheArisChronicles #SerialFiction #AIStory #Entrepreneurship #Founders",
+  "post_bridge_response": {
+    "id": "d1034a4d-bfec-4819-b84d-04696cfe144a",
+    "caption": "Devon built it quietly. Over a weekend. And it was already running.\n\nEp. 7 \u2014 The Aris Chronicles: Kai sees the demo. But seeing a demo and seeing what Devon actually shipped are two different things.\n\n#TheArisChronicles #SerialFiction #AIStory #Entrepreneurship #Founders",
+    "status": "scheduled",
+    "scheduled_at": "2026-04-07T11:00:00+00:00",
+    "platform_configurations": {
+      "tiktok": {
+        "is_aigc": true
+      },
+      "youtube": {
+        "title": "Aris Chronicles Ep. 7 \u2014 What Devon Built"
+      }
+    },
+    "account_configurations": null,
+    "social_accounts": [
+      52328,
+      51230
+    ],
+    "media": [
+      "f59820ae-4053-461a-acff-5b24b8dbcbcb"
+    ],
+    "created_at": "2026-03-30T06:08:32.694713+00:00",
+    "updated_at": "2026-03-30T06:08:32.694713+00:00",
+    "is_draft": false
+  }
+}
