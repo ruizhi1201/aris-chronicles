@@ -1,5 +1,7 @@
 # Episode 10: Give Me Something Impossible
 
+## Narration Script
+
 The Aris Chronicles. Episode Ten: Give Me Something Impossible.
 
 He had been circling it for a week.
@@ -79,3 +81,9 @@ He went to bed.
 The last thing he saw before he closed his eyes was the glow of the laptop screen through the bedroom doorway — warm, steady, moving — and the specific quality of that light, which was the light of something being built in a quiet house while a person slept, and which he would remember for a long time.
 
 The Aris Chronicles. New episodes four times a week. Episode eleven: What the Laptop Made.
+
+
+---
+
+*Quote used in video overlay:*
+> Define "working prototype." Let's be specific about what we're building before we build it.
