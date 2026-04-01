@@ -2,10 +2,10 @@
   "episode": 10,
   "title": "Give Me Something Impossible",
   "status": "scheduled",
-  "post_id": "e3e29e53-0262-4f77-a763-fb08f10f4806",
-  "media_id": "8c2f8421-200e-4416-9588-6fc84a22d949",
+  "post_id": "735e9f9d-65df-440c-9431-2c6247a70254",
+  "media_id": "7533d070-d18c-42c8-acfc-8ef5fde02354",
   "scheduled_at": "2026-04-13T11:00:00Z",
-  "produced_at": "2026-04-01T02:42:00Z",
+  "produced_at": "2026-04-01T02:44:00Z",
   "audio_duration_seconds": 467,
-  "quote": "He had been circling it for a week."
+  "quote": "Define \"working prototype.\" Let's be specific about what we're building before we build it."
 }
